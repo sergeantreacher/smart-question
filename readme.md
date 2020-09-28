@@ -286,8 +286,8 @@ volume">حجم نشانه ی دقت نیست</a>» را ببینید).</p>
 <p>سخن مترجم:</p>
 <p>در پایان مقاله تعدادی پرسش و پاسخ نوشته شده که برای سوال پرسیدن در forum های انگلیسی اهمیت دارند ولی برای آشنایی شما با قالب های گرامری در گفتار و نوشتار انگلیسی ترجمه نشده اند زیرا ترجمه ی آنها ارزشی ندارد. شما باید با نحوه ی تعامل به زبان انگلیسی در forum های انگلیسی زبان آشنا شوید و ترجمه ی این مقاله صرفا به هدف ارتقای فهم شما از چگونگی پرسش ها و مفاهیم مورد نیاز برای این کار است.</p>
 <p>۴ بخش پایانی متن را (Questions Not To Ask، Good and Bad Questions، If You Can’t Get An Answer، How To Answer Questions in a Helpful Way) حتما مطالعه فرمایید:</p>
-<p><a href="http://www.catb.org/~esr/faqs/smart-questions.html">http://www.catb.org/~esr/faqs/smart-questions.html</a></p>
+<p><a href="https://github.com/selfteaching/How-To-Ask-Questions-The-Smart-Way">How To Ask Questions The Smart Way</a></p>
 <p>از توجهتون ممنونم!</p>
 <p>امیرحسین پیمانفرد</p>
-<p>ارتباط با من: <a href="http://www.twitter.com/reachersergeant">www.twitter.com/reachersergeant</a></p>
+<p><a href="http://www.twitter.com/reachersergeant">ارتباط با من</a></p>
 </div>
